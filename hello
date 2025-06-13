@@ -1,0 +1,4 @@
+#include<stdio.h>
+int main(){
+	printf("M            E\n  N        E   \n    A    R   \n       F");
+}
